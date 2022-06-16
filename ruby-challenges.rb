@@ -98,7 +98,7 @@ end
     my_bike = Bike.new ('trek')
     p my_bike.bike_info 
     # --> "The trek bike has 2 wheels and is going 0 mph"
-    p my_bike.current_speed
+    p my_bike.current_speed``
     # --> 0
     
     my_bike = Bike.new 'my_bike'

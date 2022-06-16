@@ -11,7 +11,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
   A hash in ruby is a collection of key:value pairs. 
 
   Researched answer:
-  A hash in ruby is a collection of key:value pairs. A hash is similar to an array except taht indexing is done via arbitrary keys of an object type and not trough integer index.If you attempt to access a hash with a key that does not exist, the method will return nil.
+  A hash in ruby is a collection of key:value pairs. A hash is similar to an array except taht indexing is done via arbitrary keys of an object type and not trough integer index.If you attempt to access a hash with a key that does not exist, the method will return nil. During our cohort we practiced with ruby hashes by creating hash method for a bbq. Our hash had keys and values. the keys referred to bbq food like brisket or ribs and the values referred to the students. Our output took each key and value and returned the students name along with their bbq food of choice.
 
 
 2. What is a gem?
@@ -20,7 +20,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
   Gems are used to modify and even speed up code in ruby applications.
 
   Researched answer:
-  Gems are equivalent to a plugin or an extension for the Ruby language programming. Gems can be used to extend or modify functionality in Ruby applications. Gems can be created and sharded amongst developers through a shared community to be used in their applications and libraries. Some gems provide command line utilities to help automate tasks and speed up your work.
+  Gems are equivalent to a plugin or an extension for the Ruby language programming. Gems can be used to extend or modify functionality in Ruby applications. Gems can be created and sharded amongst developers through a shared community to be used in their applications and libraries. Some gems provide command line utilities to help automate tasks and speed up your work. Active record and Rspec.
 
 3. What is Ruby on Rails?
 
@@ -29,6 +29,9 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Researched answer:
   Rails is a model–view–controller (MVC) framework, providing default structures for a database, a web service, and web pages. Rails facilitates the use of web standards such as JSON or XML for data transfer and HTML, CSS and JavaScript for user interfacing. Rails can be used to build web applications taht span both the front end and back end. The Model and Controller would be considered the back-end part of the application. The View handles the front end by generating the actual web page that people see in the browser, along with included JavaScript and HTML. You can also use Rails to create web services or APIs that return JSON for use by other applications.
+  
+  Rails is framework that was written in the ruby language and released in 2004. It allows developers to create full stack web applications. It allows developers to take in, save, and show data through the MVC model view controller. 
+  The model is like the brain of the application. The view is what the user sees. And the controller controls the interaction between the user and the application. In class we built a simple blog on ruby on rails which allows a user to create, read, update, and delete blogs. 
 
 4. What is a relational database? Are there other kinds of databases?
 
